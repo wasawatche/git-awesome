@@ -1,1 +1,1 @@
-Hello, I'm currently training git.
+Hello, KBTG Kamplus
